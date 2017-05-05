@@ -1,0 +1,25 @@
+{
+  "name": "paryatati",
+  "version": "1.0.0",
+  "description": "A site which is built for travel purpose. Name after a sanskirit\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[\u001b[\u001b[3~\u001b[C\u001b[C\u001b[C\u001brit work paryatati.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopiraj24/paryatati.git"
+  },
+  "keywords": [
+    "paryatati"
+  ],
+  "author": "gopiraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gopiraj24/paryatati/issues"
+  },
+  "homepage": "https://github.com/gopiraj24/paryatati#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  }
+}
