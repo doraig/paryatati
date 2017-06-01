@@ -4,4 +4,4 @@
 
 - Starting the web page in a web server.
 - Building the CSS in to a single file
-- Implmenting CSS sprites.
+- Implementing CSS sprites.
